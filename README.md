@@ -4,7 +4,7 @@
 
 ## 一、支持
 
-#### 1.支持免登录chat2api
+#### 1.支持免登录chat2api 
 
 #### 2.支持账号chat2api（Authorization Bearer eyJhbGciOiJSUz***）
 
